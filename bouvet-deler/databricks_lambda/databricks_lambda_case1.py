@@ -2,7 +2,7 @@
 # MAGIC %md
 # MAGIC # Using Lambda in Databricks - Case 1
 # MAGIC
-# MAGIC This notebooks gives a simple example of using lambda in Databricks. For more information see this article (add link).
+# MAGIC This notebooks gives a simple example of using lambda in Databricks. For more information see this article: https://www.bouvet.no/bouvet-deler/databricks-lambda
 # MAGIC
 # MAGIC Author: Morten Mjelde <morten.mjelde@bouvet.no>
 
